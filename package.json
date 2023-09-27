@@ -1,0 +1,15 @@
+{
+  "name": "rhodonite_quickstart_js",
+  "version": "1.0.0",
+  "description": "A quick start template for Rhodonite Web3D Library",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "rhodonite": "^0.11.8"
+  }
+}
