@@ -1,4 +1,4 @@
-# rhodonite_quickstart_js
+# Rhodonite quickstart template with JavaScript
 
 This is a quick start template for Rhodonite Web3D Library in plain JavaScript.
 
